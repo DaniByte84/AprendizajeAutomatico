@@ -151,7 +151,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,PEND,"Victoria Saliendo 6""",Operacion Correcta,30/6/22,30,6,2022,8:38:00 a. m.,AM,1483910.00,1522589.00,  ,18.90, MA 
 1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,30/6/22,30,6,2022,9:10:00 a. m.,AM,256427.00,260076.00,,, MA 
 1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,30/6/22,30,6,2022,9:12:00 a. m.,AM,453844.13,464033.90,8.49,, MA 
-1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,30/6/22,30,6,2022,9:12:00 a. m.,AM,443793.11,453303.18,14.09, -   , MA 
+1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,30/6/22,30,6,2022,9:12:00 a. m.,AM,443793.11,453303.18,14.09,, MA 
 1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,30/6/22,30,6,2022,9:24:00 a. m.,AM,172434.00,183648.00,3.71,6.46, MA 
 1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,30/6/22,30,6,2022,9:26:00 a. m.,AM,13883.00,23750.00,3.51,2.77, MA 
 1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Estación Fuera de Operación Definitiva,30/6/22,30,6,2022,,AM,,,,, MA 
@@ -506,19 +506,19 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,1/11/22,1,11,2022,9:20:00 a. m.,AM,18941.16,19190.82,36.60,, MA 
 1,PEND,"Victoria Saliendo 6""",Operacion Correcta,,0,10,2022,,AM,1698211.00,,,, MA 
 1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,1/11/22,1,11,2022,10:13:00 a. m.,AM,268574.00,272804.00,  ,16.26, MA 
-1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,1/11/22,1,11,2022,10:15:00 a. m.,AM,504561.00,519144.00,3.24, -   , MA 
-1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,1/11/22,1,11,2022,10:14:00 a. m.,AM,490559.00,505100.00,3.11, -   , MA 
-1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,1/11/22,1,11,2022,10:15:00 a. m.,AM,221928.00,519744.00,3.12, -   , MA 
-1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,1/11/22,1,11,2022,10:15:00 a. m.,AM,52890.00,59961.00,2.17, -   , MA 
-1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Estación Fuera de Operación Definitiva,1/11/22,1,11,2022,,AM,,148634.00,, -   , MA 
+1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,1/11/22,1,11,2022,10:15:00 a. m.,AM,504561.00,519144.00,3.24,, MA 
+1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,1/11/22,1,11,2022,10:14:00 a. m.,AM,490559.00,505100.00,3.11,, MA 
+1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,1/11/22,1,11,2022,10:15:00 a. m.,AM,221928.00,519744.00,3.12,, MA 
+1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,1/11/22,1,11,2022,10:15:00 a. m.,AM,52890.00,59961.00,2.17,, MA 
+1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Estación Fuera de Operación Definitiva,1/11/22,1,11,2022,,AM,,148634.00,,, MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,1/11/22,1,11,2022,11:31:00 a. m.,AM,1466951.30,1506896.70,14.80,12.40, MA 
-1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,1/11/22,1,11,2022,11:30:00 a. m.,AM,1277514.06,1314787.30,  , -   , MA 
-1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,1/11/22,1,11,2022,11:28:00 a. m.,AM,132848.00,148639.00,14.71, -   , MA 
-1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Macromedidor en mal estado,1/11/22,1,11,2022,11:29:00 a. m.,AM,13789.00,13891.00,  , -   , MA 
+1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,1/11/22,1,11,2022,11:30:00 a. m.,AM,1277514.06,1314787.30,  ,, MA 
+1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,1/11/22,1,11,2022,11:28:00 a. m.,AM,132848.00,148639.00,14.71,, MA 
+1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Macromedidor en mal estado,1/11/22,1,11,2022,11:29:00 a. m.,AM,13789.00,13891.00,  ,, MA 
 1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,1/11/22,1,11,2022,11:28:00 a. m.,AM,23648.00,24432.09,  ,0.90, MA 
 1,SRM19,Entrada Chorreras I a Tanque San Isidro,Operacion Correcta,1/11/22,1,11,2022,11:06:00 a. m.,AM,140798.00,190429.00,11.68,13.12, MA 
 1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,1/11/22,1,11,2022,11:06:00 a. m.,AM,1438878.00,1484970.00,10.59,0.46, MA 
-1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,1/11/22,1,11,2022,,AM,1508258.00, -   ,17.16, -   , MA 
+1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,1/11/22,1,11,2022,,AM,1508258.00,,17.16,, MA 
 1,SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,Operacion Correcta,1/11/22,1,11,2022,11:09:00 a. m.,AM,1148884.00,1175758.00,12.05,12.70, MA 
 1,SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,Operacion Correcta,1/11/22,1,11,2022,11:08:00 a. m.,AM,3708455.00,3792580.00,42.36,39.29, MA 
 1,SIM17,Cementerio  Bunt Planet,Problema de energización,1/11/22,1,11,2022,8:22:00 a. m.,AM,851230.92,868453.11,7.39,8.73, MA 
@@ -597,19 +597,19 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Linea fuera de Operación,1/12/22,1,12,2022,3:36:00 p. m.,PM,19190.82,19396.07,,  , MA 
 1,PEND,"Victoria Saliendo 6""",Linea fuera de Operación,1/12/22,1,12,2022,3:34:00 p. m.,PM,,1763468.00,,34.84, MA 
 1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Linea fuera de Operación,1/12/22,1,12,2022,4:02:00 p. m.,PM,272804.00,276512.00,16.26,  , MA 
-1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,1/12/22,1,12,2022,3:56:00 p. m.,PM,519144.00,521867.00, -   ,8.68, MA 
-1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,1/12/22,1,12,2022,,AM,505100.00,521867.00, -   ,8.30, MA 
-1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,1/12/22,1,12,2022,11:15:00 a. m.,AM,219744.00,231900.00, -   ,1.02, MA 
-1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,1/12/22,1,12,2022,11:11:00 a. m.,AM,59961.00,77790.00, -   ,12.68, MA 
-1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Operacion Correcta,1/12/22,1,12,2022,10:51:00 a. m.,AM,148634.00,165233.00, -   ,17.05, MA 
+1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,1/12/22,1,12,2022,3:56:00 p. m.,PM,519144.00,521867.00,,8.68, MA 
+1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,1/12/22,1,12,2022,,AM,505100.00,521867.00,,8.30, MA 
+1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,1/12/22,1,12,2022,11:15:00 a. m.,AM,219744.00,231900.00,,1.02, MA 
+1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,1/12/22,1,12,2022,11:11:00 a. m.,AM,59961.00,77790.00,,12.68, MA 
+1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Operacion Correcta,1/12/22,1,12,2022,10:51:00 a. m.,AM,148634.00,165233.00,,17.05, MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,1/12/22,1,12,2022,11:00:00 a. m.,AM,1506896.70,1544672.00,12.40,14.80, MA 
-1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,1/12/22,1,12,2022,10:57:00 a. m.,AM,1314787.30,1350228.00, -   ,22.60, MA 
-1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,1/12/22,1,12,2022,10:58:00 a. m.,AM,148639.00,165233.00, -   ,17.05, MA 
-1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Linea fuera de Operación,1/12/22,1,12,2022,11:54:00 a. m.,AM,13891.00,13891.00, -   ,  , MA 
+1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,1/12/22,1,12,2022,10:57:00 a. m.,AM,1314787.30,1350228.00,,22.60, MA 
+1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,1/12/22,1,12,2022,10:58:00 a. m.,AM,148639.00,165233.00,,17.05, MA 
+1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Linea fuera de Operación,1/12/22,1,12,2022,11:54:00 a. m.,AM,13891.00,13891.00,,  , MA 
 1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,1/12/22,1,12,2022,10:51:00 a. m.,AM,24432.09,25158.00,0.90,0.96, MA 
 1,SRM19,Entrada Chorreras I a Tanque San Isidro,Operacion Correcta,1/12/22,1,12,2022,10:31:00 a. m.,AM,190429.00,227862.00,13.12,5.69, MA 
 1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,1/12/22,1,12,2022,10:31:00 a. m.,AM,1484970.00,1520982.00,0.46,7.53, MA 
-1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,1/12/22,1,12,2022,10:42:00 a. m.,AM, -   ,1534926.00, -   ,17.14, MA 
+1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,1/12/22,1,12,2022,10:42:00 a. m.,AM,,1534926.00,,17.14, MA 
 1,SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,Operacion Correcta,1/12/22,1,12,2022,10:35:00 a. m.,AM,1175758.00,1201900.00,12.70,13.94, MA 
 1,SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,Operacion Correcta,1/12/22,1,12,2022,10:33:00 a. m.,AM,3792580.00,3870304.00,39.29,42.96, MA 
 1,SIM17,Cementerio  Bunt Planet,Operacion Correcta,1/12/22,1,12,2022,12:18:00 p. m.,PM,868453.11,885211.13,8.73,8.47, MA 
@@ -860,14 +860,14 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM12,"Pozo Highland Ranch (3"")",Operacion Correcta,2/3/23,2,3,2023,9:57:00 a. m.,AM,670976.00,689040.00,  ,11.38, MA 
 1,SIM04,Pozo Santa Cruz I        ,Operacion Correcta,2/3/23,2,3,2023,7:53:00 a. m.,AM,1711631.40,1740519.60,  ,24.00, MA 
 1,SIM02,"Pozo Santa Cruz II (8"")",Operacion Correcta,2/3/23,2,3,2023,7:52:00 a. m.,AM,264538.00,324630.24,  ,44.84, MA 
-1,,Pozo Vilaseca,Pozo Apagado,2/3/23,2,3,2023,7:34:00 a. m.,AM,109529.49,124594.79,  , -   ,
+1,,Pozo Vilaseca,Pozo Apagado,2/3/23,2,3,2023,7:34:00 a. m.,AM,109529.49,124594.79,  ,,
 1,,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,,0,2,2023,,AM,,,,,
 1,SIM12,"Mata Maiz Llegando al Tanque 4""",Operacion Correcta,2/3/23,2,3,2023,8:13:00 a. m.,AM,811358.00,830960.00,9.19,6.36, MA 
 1,SIM13,"Mata Caña llegando al Tanque 4""",Operacion Correcta,2/3/23,2,3,2023,8:13:00 a. m.,AM,1033789.00,1049038.00,6.89,5.86, MA 
 1,SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,2/3/23,2,3,2023,8:12:00 a. m.,AM,19829.00,19829.00,  ,  , MA 
 1,SIM01,"Tanque Succion  tanque Victoria 6""",Operacion Correcta,2/3/23,2,3,2023,8:11:00 a. m.,AM,1668073.00,1701219.00,29.24,  , MA 
 1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,2/3/23,2,3,2023,8:09:00 a. m.,AM,850632.20,863309.65,  ,12.92, MA 
-1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,2/3/23,2,3,2023,8:10:00 a. m.,AM,19811.84,19980.74,  , -   , MA 
+1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,2/3/23,2,3,2023,8:10:00 a. m.,AM,19811.84,19980.74,  ,, MA 
 1,PEND,"Victoria Saliendo 6""",Operacion Correcta,2/3/23,2,3,2023,8:09:00 a. m.,AM,1886597.00,1959356.00,34.14,37.74, MA 
 1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,2/3/23,2,3,2023,8:33:00 a. m.,AM,291385.00,293340.00,  ,13.40, MA 
 1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,2/3/23,2,3,2023,8:32:00 a. m.,AM,554928.00,569805.00,3.03,1.48, MA 
@@ -878,8 +878,8 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,2/3/23,2,3,2023,9:05:00 a. m.,AM,1618979.60,1653243.50,14.70,12.90, MA 
 1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,2/3/23,2,3,2023,9:03:00 a. m.,AM,1420839.80,1452714.10,  ,21.60, MA 
 1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,2/3/23,2,3,2023,8:59:00 a. m.,AM,194687.00,206546.00,  ,14.32, MA 
-1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,2/3/23,2,3,2023,9:01:00 a. m.,AM,14098.00,14231.00,  , -   , MA 
-1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,2/3/23,2,3,2023,9:00:00 a. m.,AM,26745.00,27513.00,  , -   , MA 
+1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,2/3/23,2,3,2023,9:01:00 a. m.,AM,14098.00,14231.00,  ,, MA 
+1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,2/3/23,2,3,2023,9:00:00 a. m.,AM,26745.00,27513.00,  ,, MA 
 1,SRM19,Entrada Chorreras I a Tanque San Isidro,Operacion Correcta,2/3/23,2,3,2023,9:23:00 a. m.,AM,287474.00,310383.00,5.47,4.48, MA 
 1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,2/3/23,2,3,2023,9:23:00 a. m.,AM,1584760.00,1610202.00,7.20,0.39, MA 
 1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,2/3/23,2,3,2023,9:28:00 a. m.,AM,1612525.00,1659091.00,25.17,26.47, MA 
@@ -951,16 +951,16 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM12,"Pozo Highland Ranch (3"")",Operacion Correcta,3/4/23,3,4,2023,10:42:00 a. m.,AM,689040.00,705553.00,11.38,11.02, MA 
 1,SIM04,Pozo Santa Cruz I        ,Operacion Correcta,3/4/23,3,4,2023,8:09:00 a. m.,AM,1740519.60,1767575.60,24.00,23.00, MA 
 1,SIM02,"Pozo Santa Cruz II (8"")",Operacion Correcta,3/4/23,3,4,2023,8:10:00 a. m.,AM,324630.24,409388.81,44.84,  , MA 
-1,,Pozo Vilaseca,Pozo Apagado,3/4/23,3,4,2023,7:54:00 a. m.,AM,124594.79,157536.78, -   , -   ,
+1,,Pozo Vilaseca,Pozo Apagado,3/4/23,3,4,2023,7:54:00 a. m.,AM,124594.79,157536.78,,,
 1,,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,,0,3,2023,,AM,,,,,
 1,SIM12,"Mata Maiz Llegando al Tanque 4""",Operacion Correcta,3/4/23,3,4,2023,8:34:00 a. m.,AM,830960.00,850063.00,6.36,7.06, MA 
 1,SIM13,"Mata Caña llegando al Tanque 4""",Operacion Correcta,3/4/23,3,4,2023,8:34:00 a. m.,AM,1049038.00,1064961.00,5.86,6.08, MA 
-1,SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,3/4/23,3,4,2023,8:34:00 a. m.,AM,19829.00,19829.00,  , -   , MA 
+1,SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,3/4/23,3,4,2023,8:34:00 a. m.,AM,19829.00,19829.00,  ,, MA 
 1,SIM01,"Tanque Succion  tanque Victoria 6""",Operacion Correcta,3/4/23,3,4,2023,8:32:00 a. m.,AM,1701219.00,1734372.00,  ,29.08, MA 
-1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,3/4/23,3,4,2023,8:32:00 a. m.,AM,863309.65,885348.74,12.92, -   , MA 
-1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,3/4/23,3,4,2023,8:31:00 a. m.,AM,19980.74,20202.55, -   , -   , MA 
+1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,3/4/23,3,4,2023,8:32:00 a. m.,AM,863309.65,885348.74,12.92,, MA 
+1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,3/4/23,3,4,2023,8:31:00 a. m.,AM,19980.74,20202.55,,, MA 
 1,PEND,"Victoria Saliendo 6""",Operacion Correcta,3/4/23,3,4,2023,8:31:00 a. m.,AM,1959356.00,2027784.00,37.74,38.69, MA 
-1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,3/4/23,3,4,2023,9:33:00 a. m.,AM,293340.00,303524.00,13.40, -   , MA 
+1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,3/4/23,3,4,2023,9:33:00 a. m.,AM,293340.00,303524.00,13.40,, MA 
 1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,3/4/23,3,4,2023,9:35:00 a. m.,AM,569805.00,581433.00,1.48,8.69, MA 
 1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,3/4/23,3,4,2023,9:35:00 a. m.,AM,551728.00,562648.00,1.57,8.65, MA 
 1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,3/4/23,3,4,2023,10:25:00 a. m.,AM,237909.00,238732.00,0.48,0.19, MA 
@@ -968,18 +968,18 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Operacion Correcta,,0,3,2023,,AM,194687.00,,  ,, MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,3/4/23,3,4,2023,10:44:00 a. m.,AM,1653243.50,1689113.60,12.90,14.40, MA 
 1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,3/4/23,3,4,2023,10:43:00 a. m.,AM,1452714.10,1484535.90,21.60,21.90, MA 
-1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,3/4/23,3,4,2023,10:39:00 a. m.,AM,206546.00,214129.00,14.32, -   , MA 
-1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,3/4/23,3,4,2023,10:41:00 a. m.,AM,14231.00,14513.00, -   , -   , MA 
-1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,3/4/23,3,4,2023,10:39:00 a. m.,AM,27513.00,28374.00, -   ,1.20, MA 
+1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,3/4/23,3,4,2023,10:39:00 a. m.,AM,206546.00,214129.00,14.32,, MA 
+1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,3/4/23,3,4,2023,10:41:00 a. m.,AM,14231.00,14513.00,,, MA 
+1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,3/4/23,3,4,2023,10:39:00 a. m.,AM,27513.00,28374.00,,1.20, MA 
 1,SRM19,Entrada Chorreras I a Tanque San Isidro,Operacion Correcta,3/4/23,3,4,2023,11:10:00 a. m.,AM,310383.00,354649.00,4.48,7.98, MA 
-1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,3/4/23,3,4,2023,11:10:00 a. m.,AM,1610202.00,1629499.00,0.39, -   , MA 
+1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,3/4/23,3,4,2023,11:10:00 a. m.,AM,1610202.00,1629499.00,0.39,, MA 
 1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,3/4/23,3,4,2023,11:14:00 a. m.,AM,1659091.00,1716794.00,26.47,36.60, MA 
 1,SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,Operacion Correcta,3/4/23,3,4,2023,11:13:00 a. m.,AM,1258717.00,1313703.00,13.64,15.31, MA 
 1,SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,Operacion Correcta,3/4/23,3,4,2023,11:11:00 a. m.,AM,4022790.00,4159842.00,34.84,35.54, MA 
 1,SIM17,Cementerio  Bunt Planet,Operacion Correcta,3/4/23,3,4,2023,8:00:00 a. m.,AM,921339.32,965279.37,7.97,9.31, MA 
 1,SIM18,Mas x Menos Bunt Planet,Operacion Correcta,3/4/23,3,4,2023,8:04:00 a. m.,AM,1457886.00,1524583.50,14.96,16.65, MA 
 1,SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,,0,3,2023,,AM,,,,, MA 
-1,SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,3/4/23,3,4,2023,7:45:00 a. m.,AM,650553.00,659768.00,  , -   , MA 
+1,SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,3/4/23,3,4,2023,7:45:00 a. m.,AM,650553.00,659768.00,  ,, MA 
 1,SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",Operacion Correcta,3/4/23,3,4,2023,10:56:00 a. m.,AM,2764848.00,2806548.00,11.13,20.55, MA 
 1,SRM48,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,3/4/23,3,4,2023,11:08:00 a. m.,AM,1773246.00,1812136.00,10.99,13.00, MA 
 1,SRM49,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,3/4/23,3,4,2023,11:08:00 a. m.,AM,370802.00,405347.00,11.77,16.07, MA 
@@ -1042,16 +1042,16 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM12,"Pozo Highland Ranch (3"")",Operacion Correcta,2/5/23,2,5,2023,10:34:00 a. m.,AM,705553.00,745592.00,11.02,10.92, MA 
 1,SIM04,Pozo Santa Cruz I        ,Operacion Correcta,2/5/23,2,5,2023,7:44:00 a. m.,AM,1767575.60,1790934.60,23.00,23.20, MA 
 1,SIM02,"Pozo Santa Cruz II (8"")",Operacion Correcta,2/5/23,2,5,2023,7:43:00 a. m.,AM,409388.81,484428.00,  ,44.50, MA 
-1,,Pozo Vilaseca,Pozo Apagado,,0,4,2023,,AM,157536.78,, -   ,,
+1,,Pozo Vilaseca,Pozo Apagado,,0,4,2023,,AM,157536.78,,,,
 1,,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,,0,4,2023,,AM,,,,,
 1,SIM12,"Mata Maiz Llegando al Tanque 4""",Operacion Correcta,2/5/23,2,5,2023,8:04:00 a. m.,AM,850063.00,866800.00,7.06,2.90, MA 
 1,SIM13,"Mata Caña llegando al Tanque 4""",Operacion Correcta,2/5/23,2,5,2023,8:03:00 a. m.,AM,1064961.00,1080299.00,6.08,4.64, MA 
-1,SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,2/5/23,2,5,2023,8:01:00 a. m.,AM,19829.00,19829.00, -   ,  , MA 
+1,SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,2/5/23,2,5,2023,8:01:00 a. m.,AM,19829.00,19829.00,,  , MA 
 1,SIM01,"Tanque Succion  tanque Victoria 6""",Operacion Correcta,2/5/23,2,5,2023,8:00:00 a. m.,AM,1734372.00,1764293.00,29.08,  , MA 
-1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,2/5/23,2,5,2023,7:59:00 a. m.,AM,885348.74,905849.30, -   ,17.35, MA 
-1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,2/5/23,2,5,2023,7:58:00 a. m.,AM,20202.55,20395.82, -   ,0.22, MA 
+1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,2/5/23,2,5,2023,7:59:00 a. m.,AM,885348.74,905849.30,,17.35, MA 
+1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,2/5/23,2,5,2023,7:58:00 a. m.,AM,20202.55,20395.82,,0.22, MA 
 1,PEND,"Victoria Saliendo 6""",Operacion Correcta,2/5/23,2,5,2023,7:58:00 a. m.,AM,2027784.00,2113365.60,38.69,39.76, MA 
-1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,2/5/23,2,5,2023,8:20:00 a. m.,AM,303524.00,317788.00, -   ,  , MA 
+1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,2/5/23,2,5,2023,8:20:00 a. m.,AM,303524.00,317788.00,,  , MA 
 1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,2/5/23,2,5,2023,8:21:00 a. m.,AM,581433.00,587833.00,8.69,  , MA 
 1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,2/5/23,2,5,2023,8:22:00 a. m.,AM,562648.00,568758.00,8.65,  , MA 
 1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,2/5/23,2,5,2023,8:34:00 a. m.,AM,238732.00,239775.00,0.19,0.13, MA 
@@ -1059,18 +1059,18 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Operacion Correcta,,0,4,2023,,AM,,,,, MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,2/5/23,2,5,2023,8:51:00 a. m.,AM,1689113.60,1718047.50,14.40,8.10, MA 
 1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,2/5/23,2,5,2023,8:52:00 a. m.,AM,1484535.90,1510853.30,21.90,21.70, MA 
-1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,2/5/23,2,5,2023,8:55:00 a. m.,AM,214129.00,219909.00, -   ,  , MA 
-1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,2/5/23,2,5,2023,8:53:00 a. m.,AM,14513.00,15076.00, -   ,  , MA 
+1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,2/5/23,2,5,2023,8:55:00 a. m.,AM,214129.00,219909.00,,  , MA 
+1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,2/5/23,2,5,2023,8:53:00 a. m.,AM,14513.00,15076.00,,  , MA 
 1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,2/5/23,2,5,2023,8:54:00 a. m.,AM,28374.00,29222.00,1.20,  , MA 
 1,SRM19,Entrada Chorreras I a Tanque San Isidro,Operacion Correcta,2/5/23,2,5,2023,10:00:00 a. m.,AM,354649.00,391669.00,7.98,8.07, MA 
-1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,2/5/23,2,5,2023,10:02:00 a. m.,AM,1629499.00,1643493.00, -   ,  , MA 
+1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,2/5/23,2,5,2023,10:02:00 a. m.,AM,1629499.00,1643493.00,,  , MA 
 1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,2/5/23,2,5,2023,9:56:00 a. m.,AM,1716794.00,1777108.00,36.60,33.64, MA 
 1,SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,Operacion Correcta,2/5/23,2,5,2023,9:59:00 a. m.,AM,1313703.00,1339166.00,15.31,13.05, MA 
 1,SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,Operacion Correcta,2/5/23,2,5,2023,9:58:00 a. m.,AM,4159842.00,4219147.00,35.54,42.80, MA 
 1,SIM17,Cementerio  Bunt Planet,Operacion Correcta,2/5/23,2,5,2023,7:35:00 a. m.,AM,965279.37,986840.00,9.31,9.43, MA 
 1,SIM18,Mas x Menos Bunt Planet,Operacion Correcta,2/5/23,2,5,2023,7:38:00 a. m.,AM,1524583.50,1563566.90,16.65,17.93, MA 
 1,SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,,0,4,2023,,AM,,,,, MA 
-1,SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,2/5/23,2,5,2023,7:30:00 a. m.,AM,659768.00,664426.00, -   ,  , MA 
+1,SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,2/5/23,2,5,2023,7:30:00 a. m.,AM,659768.00,664426.00,,  , MA 
 1,SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",Operacion Correcta,2/5/23,2,5,2023,10:46:00 a. m.,AM,2806548.00,2840274.00,20.55,6.57, MA 
 1,SRM48,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,2/5/23,2,5,2023,10:53:00 a. m.,AM,1812136.00,1842114.00,13.00,7.16, MA 
 1,SRM49,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,2/5/23,2,5,2023,10:54:00 a. m.,AM,405347.00,438428.00,16.07,13.46, MA 
@@ -1138,15 +1138,15 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SIM12,"Mata Maiz Llegando al Tanque 4""",Operacion Correcta,1/6/23,1,6,2023,8:31:00 a. m.,AM,866800.00,872458.00,2.90,1.80, MA 
 1,SIM13,"Mata Caña llegando al Tanque 4""",Operacion Correcta,1/6/23,1,6,2023,8:31:00 a. m.,AM,1080299.00,1090226.00,4.64,3.42, MA 
 1,SIM14,"Limpieza Tanque Victoria 8""",Linea fuera de Operación,1/6/23,1,6,2023,8:30:00 a. m.,AM,19829.00,19829.00,  ,  , MA 
-1,SIM01,"Tanque Succion  tanque Victoria 6""",Operacion Correcta,1/6/23,1,6,2023,8:28:00 a. m.,AM,1764293.00,1779540.00,  , Sin Caudal , MA 
-1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,1/6/23,1,6,2023,8:27:00 a. m.,AM,905849.30,944901.40,17.35, Sin Caudal , MA 
-1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,1/6/23,1,6,2023,8:26:00 a. m.,AM,20395.82,20611.28,0.22, -   , MA 
+1,SIM01,"Tanque Succion  tanque Victoria 6""",Operacion Correcta,1/6/23,1,6,2023,8:28:00 a. m.,AM,1764293.00,1779540.00,  ,, MA 
+1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,1/6/23,1,6,2023,8:27:00 a. m.,AM,905849.30,944901.40,17.35,, MA 
+1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,1/6/23,1,6,2023,8:26:00 a. m.,AM,20395.82,20611.28,0.22,, MA 
 1,PEND,"Victoria Saliendo 6""",Operacion Correcta,1/6/23,1,6,2023,8:25:00 a. m.,AM,2113365.60,2206113.00,39.76,39.59, MA 
 1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,1/6/23,1,6,2023,8:54:00 a. m.,AM,317788.00,336839.00,  ,15.84, MA 
 1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,1/6/23,1,6,2023,8:55:00 a. m.,AM,587833.00,592726.00,  ,0.42, MA 
 1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,1/6/23,1,6,2023,8:56:00 a. m.,AM,568758.00,573521.00,  ,0.40, MA 
-1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,1/6/23,1,6,2023,9:26:00 a. m.,AM,239775.00,239908.00,0.13, -   , MA 
-1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,1/6/23,1,6,2023,9:25:00 a. m.,AM,137102.00,138653.00,  , -   , MA 
+1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,1/6/23,1,6,2023,9:26:00 a. m.,AM,239775.00,239908.00,0.13,, MA 
+1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,1/6/23,1,6,2023,9:25:00 a. m.,AM,137102.00,138653.00,  ,, MA 
 1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Operacion Correcta,,0,5,2023,,AM,,,,, MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,1/6/23,1,6,2023,9:45:00 a. m.,AM,1718047.50,1735401.30,8.10,5.10, MA 
 1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,1/6/23,1,6,2023,9:46:00 a. m.,AM,1510853.30,1527833.50,21.70,  , MA 
@@ -1161,7 +1161,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SIM17,Cementerio  Bunt Planet,Operacion Correcta,1/6/23,1,6,2023,8:00:00 a. m.,AM,986840.00,1008918.60,9.43,9.31, MA 
 1,SIM18,Mas x Menos Bunt Planet,Operacion Correcta,1/6/23,1,6,2023,8:03:00 a. m.,AM,1563566.90,1604222.40,17.93,17.51, MA 
 1,SIM19,Cruz Roja Bunt Planet,Estación Fuera de Operación Definitiva,,0,5,2023,,AM,,,,, MA 
-1,SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,1/6/23,1,6,2023,7:49:00 a. m.,AM,664426.00,668144.00,  , Sin Caudal , MA 
+1,SIM53,Entrada al Tanque San Francisco (T4),Linea fuera de Operación,1/6/23,1,6,2023,7:49:00 a. m.,AM,664426.00,668144.00,  ,, MA 
 1,SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",Operacion Correcta,1/6/23,1,6,2023,10:32:00 a. m.,AM,2840274.00,2844728.00,6.57,  , MA 
 1,SRM48,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,1/6/23,1,6,2023,10:22:00 a. m.,AM,1842114.00,1845918.00,7.16,0.60, MA 
 1,SRM49,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,1/6/23,1,6,2023,10:23:00 a. m.,AM,438428.00,469049.00,13.46,10.04, MA 
@@ -1211,7 +1211,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,HM14,"Pozo Malinches  II  ( 6"" )",Operacion Correcta,3/7/23,3,7,2023,11:15:00 a. m.,AM,2539062.39,2766972.25,83.80,83.75, M2 
 1,HM06,"Pozo San Vicente        ( 10"" )",Operacion Correcta,3/7/23,3,7,2023,8:50:00 a. m.,AM,1478142.00,1767573.00,104.75,106.30, MA 
 1,HM18,"Pozo Claretiano         ( 10"" )",Operacion Correcta,3/7/23,3,7,2023,11:25:00 a. m.,AM,6811406.00,6937389.00,46.20,46.80, MA 
-1,HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,3/7/23,3,7,2023,2:42:00 p. m.,PM,710308.55, FOP ,23.60,22.82, MA 
+1,HM19,"Pozo Boruca (8"")",Macromedidor en mal estado,3/7/23,3,7,2023,2:42:00 p. m.,PM,710308.55,,23.60,22.82, MA 
 1,BM17,"Pozo Malinches Real  ( 8"" )",Operacion Correcta,3/7/23,3,7,2023,11:45:00 a. m.,AM,1597478.00,1673814.00,29.11,28.88, MA 
 1,SRM28,"Pozo Los Altos I  ( 4"" )",Operacion Correcta,3/7/23,3,7,2023,2:50:00 p. m.,PM,523503.00,544579.00,8.68,9.87, MA 
 1,SRM37,Pozo Los Altos II ,Operacion Correcta,3/7/23,3,7,2023,2:53:00 p. m.,PM,21016212.00,21600077.00,  ,29.11, MA 
@@ -1221,7 +1221,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,HM13,"Pozo Joya 3 (8"")",Operacion Correcta,3/7/23,3,7,2023,12:30:00 p. m.,PM,2910980.00,2997063.00,35.10,  , MA 
 1,SRM30,"Pozo Santiago ( 8"" )",Operacion Correcta,30/6/23,30,6,2023,2:21:00 p. m.,PM,1989911.10,2054069.00,31.00,30.30, MA 
 1,SRM25,"Pozo Burial       ( 6"" )",Operacion Correcta,3/7/23,3,7,2023,12:10:00 p. m.,PM,2015721.00,2096373.00,31.04,31.43, MA 
-1,SRM12,"Pozo Highland Ranch (3"")",Macromedidor en mal estado,3/7/23,3,7,2023,9:50:00 a. m.,AM,846141.00, FOP ,10.87,11.38, MA 
+1,SRM12,"Pozo Highland Ranch (3"")",Macromedidor en mal estado,3/7/23,3,7,2023,9:50:00 a. m.,AM,846141.00,,10.87,11.38, MA 
 1,SIM04,Pozo Santa Cruz I        ,Operacion Correcta,30/6/23,30,6,2023,9:58:00 a. m.,AM,1815845.70,1826277.80,22.66,22.33, MA 
 1,SIM02,"Pozo Santa Cruz II (8"")",Operacion Correcta,30/6/23,30,6,2023,9:59:00 a. m.,AM,586364.47,660157.05,44.77,45.88, MA 
 1,,Pozo Vilaseca,Operacion Correcta,30/6/23,30,6,2023,9:37:00 a. m.,AM,253744.24,295550.67,55.18,  , MA 
@@ -1229,15 +1229,15 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SIM12,"Mata Maiz Llegando al Tanque 4""",Operacion Correcta,30/6/23,30,6,2023,10:19:00 a. m.,AM,872458.00,883091.00,1.80,5.05, MA 
 1,SIM13,"Mata Caña llegando al Tanque 4""",Operacion Correcta,30/6/23,30,6,2023,10:19:00 a. m.,AM,1090226.00,1100050.00,3.42,4.28, MA 
 1,SIM14,"Limpieza Tanque Victoria 8""",Operacion Correcta,30/6/23,30,6,2023,10:30:00 a. m.,AM,19829.00,19829.00,  ,  , MA 
-1,SIM01,"Tanque Succion  tanque Victoria 6""",Operacion Correcta,30/6/23,30,6,2023,10:18:00 a. m.,AM,1779540.00,1799537.00, Sin Caudal ,  , MA 
-1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,30/6/23,30,6,2023,10:18:00 a. m.,AM,944901.40,978782.70, Sin Caudal ,20.43, MA 
-1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,30/6/23,30,6,2023,10:17:00 a. m.,AM,20611.28,20793.33, -   ,  , MA 
+1,SIM01,"Tanque Succion  tanque Victoria 6""",Operacion Correcta,30/6/23,30,6,2023,10:18:00 a. m.,AM,1779540.00,1799537.00,,  , MA 
+1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,30/6/23,30,6,2023,10:18:00 a. m.,AM,944901.40,978782.70,,20.43, MA 
+1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,30/6/23,30,6,2023,10:17:00 a. m.,AM,20611.28,20793.33,,  , MA 
 1,PEND,"Victoria Saliendo 6""",Operacion Correcta,30/6/23,30,6,2023,10:17:00 a. m.,AM,2206113.00,2298303.00,39.59,41.02, MA 
 1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,30/6/23,30,6,2023,10:44:00 a. m.,AM,336839.00,645128.00,15.84,  , MA 
 1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,30/6/23,30,6,2023,10:49:00 a. m.,AM,592726.00,604288.00,0.42,8.89, MA 
 1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,30/6/23,30,6,2023,10:50:00 a. m.,AM,573521.00,584390.00,0.40,8.45, MA 
-1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,30/6/23,30,6,2023,11:17:00 a. m.,AM,239908.00,242261.00, -   ,0.97, MA 
-1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,30/6/23,30,6,2023,11:20:00 a. m.,AM,138653.00,152323.00, -   ,9.23, MA 
+1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,30/6/23,30,6,2023,11:17:00 a. m.,AM,239908.00,242261.00,,0.97, MA 
+1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,30/6/23,30,6,2023,11:20:00 a. m.,AM,138653.00,152323.00,,9.23, MA 
 1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,30/6/23,30,6,2023,11:36:00 a. m.,AM,,225923.00,  ,  , MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,30/6/23,30,6,2023,11:39:00 a. m.,AM,1735401.30,1766082.10,5.10,13.50, MA 
 1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,30/6/23,30,6,2023,11:36:00 a. m.,AM,1527833.50,1552954.70,  ,21.80, MA 
@@ -1252,7 +1252,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SIM17,Cementerio  Bunt Planet,Operacion Correcta,30/6/23,30,6,2023,9:46:00 a. m.,AM,1008918.60,1029636.50,9.31,8.92, MA 
 1,SIM18,Mas x Menos Bunt Planet,Operacion Correcta,30/6/23,30,6,2023,9:50:00 a. m.,AM,1604222.40,1641447.40,17.51,17.36, MA 
 1,SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,30/6/23,30,6,2023,,AM,,,,, MA 
-1,SIM53,Entrada al Tanque San Francisco (T4),Operacion Correcta,30/6/23,30,6,2023,9:28:00 a. m.,AM,668144.00,683434.00, Sin Caudal ,  , MA 
+1,SIM53,Entrada al Tanque San Francisco (T4),Operacion Correcta,30/6/23,30,6,2023,9:28:00 a. m.,AM,668144.00,683434.00,,  , MA 
 1,SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",Operacion Correcta,30/6/23,30,6,2023,8:40:00 a. m.,AM,2844728.00,2900592.00,  ,27.53, MA 
 1,SRM48,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,30/6/23,30,6,2023,8:50:00 a. m.,AM,1845918.00,1874281.00,0.60,15.89, MA 
 1,SRM49,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,30/6/23,30,6,2023,8:54:00 a. m.,AM,469049.00,503222.00,10.04,15.23, MA 
@@ -1383,7 +1383,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SM58,Tanque Chilillal Rebombeo,Operacion Correcta,31/7/23,31,7,2023,10:10:00 a. m.,AM,15474.70,18144.00,  ,  ,
 1,SPM01,"Pozo Miraflores        ( 8"" )",Operacion Correcta,31/8/23,31,8,2023,3:05:00 p. m.,PM,3522859.00,3537214.00,  ,  , MA 
 1,HM26,"Pozo La Esperanza I A ( 6"" )",Operacion Correcta,31/8/23,31,8,2023,3:28:00 p. m.,PM,6547350.00,6677432.00,51.70,50.20, MA 
-1,HM15,"Pozo La Esperanza II  ( 6"" )",Operacion Correcta,31/8/23,31,8,2023,3:18:00 p. m.,PM,18427.00,18433.00,  , -   , MA 
+1,HM15,"Pozo La Esperanza II  ( 6"" )",Operacion Correcta,31/8/23,31,8,2023,3:18:00 p. m.,PM,18427.00,18433.00,  ,, MA 
 1,HM07,Pozo Real Santamaría,Operacion Correcta,31/8/23,31,8,2023,3:41:00 p. m.,PM,18558821.00,18618896.00,72.57,71.37, MA 
 1,HM17,"Pozo Trebol (8"")",Operacion Correcta,31/8/23,31,8,2023,3:17:00 p. m.,PM,5621652.00,5743350.00,73.40,70.50, MA 
 1,HM10,"Pozo Monte Alegre ( 6"" )",Operacion Correcta,31/8/23,31,8,2023,3:51:00 p. m.,PM,1048100.30,1067395.70,  ,19.74, MA 
@@ -1412,24 +1412,24 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,31/8/23,31,8,2023,10:59:00 a. m.,AM,,9586.49,,33.09,
 1,SIM12,"Mata Maiz Llegando al Tanque 4""",Operacion Correcta,1/9/23,1,9,2023,1:01:00 p. m.,PM,909603.00,932247.00,6.91,4.64, MA 
 1,SIM13,"Mata Caña llegando al Tanque 4""",Operacion Correcta,1/9/23,1,9,2023,1:01:00 p. m.,PM,1119702.00,1140934.00,7.53,6.11, MA 
-1,SIM14,"Limpieza Tanque Victoria 8""",Operacion Correcta,1/9/23,1,9,2023,1:02:00 p. m.,PM,19829.00,19829.00,  , -   , MA 
+1,SIM14,"Limpieza Tanque Victoria 8""",Operacion Correcta,1/9/23,1,9,2023,1:02:00 p. m.,PM,19829.00,19829.00,  ,, MA 
 1,SIM01,"Tanque Succion  tanque Victoria 6""",Operacion Correcta,1/9/23,1,9,2023,1:10:00 p. m.,PM,1844307.00,1887057.00,  ,29.15, MA 
 1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,1/9/23,1,9,2023,1:12:00 p. m.,PM,990400.07,1005587.80,20.38,16.20, MA 
-1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,1/9/23,1,9,2023,1:13:00 p. m.,PM,20985.97,21193.22,0.17, -   , MA 
+1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,1/9/23,1,9,2023,1:13:00 p. m.,PM,20985.97,21193.22,0.17,, MA 
 1,PEND,"Victoria Saliendo 6""",Operacion Correcta,1/9/23,1,9,2023,1:14:00 p. m.,PM,2386085.00,2484653.00,40.53,37.77, MA 
 1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,1/9/23,1,9,2023,12:36:00 p. m.,PM,347187.00,356022.00,  ,15.37, MA 
-1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,1/9/23,1,9,2023,12:36:00 p. m.,PM,618381.00,628929.00,1.15, -   , MA 
-1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,1/9/23,1,9,2023,12:36:00 p. m.,PM,597641.00,607688.00,1.13, -   , MA 
-1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,1/9/23,1,9,2023,12:10:00 p. m.,PM,242261.00,244080.00,  , -   , MA 
-1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,1/9/23,1,9,2023,12:10:00 p. m.,PM,168617.00,177209.00,  , -   , MA 
+1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,1/9/23,1,9,2023,12:36:00 p. m.,PM,618381.00,628929.00,1.15,, MA 
+1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,1/9/23,1,9,2023,12:36:00 p. m.,PM,597641.00,607688.00,1.13,, MA 
+1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,1/9/23,1,9,2023,12:10:00 p. m.,PM,242261.00,244080.00,  ,, MA 
+1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,1/9/23,1,9,2023,12:10:00 p. m.,PM,168617.00,177209.00,  ,, MA 
 1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,,0,8,2023,,AM,,,,, MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,1/9/23,1,9,2023,11:55:00 a. m.,AM,1802200.40,1837082.00,12.90,9.40, MA 
 1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,1/9/23,1,9,2023,11:53:00 a. m.,AM,1584899.20,1617164.00,21.60,21.90, MA 
-1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,1/9/23,1,9,2023,11:50:00 a. m.,AM,235517.00,245771.00,  , -   , MA 
-1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,1/9/23,1,9,2023,11:54:00 a. m.,AM,18057.00,18214.00,  , -   , MA 
-1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,1/9/23,1,9,2023,11:52:00 a. m.,AM,31386.00,32124.00,0.90, -   , MA 
+1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,1/9/23,1,9,2023,11:50:00 a. m.,AM,235517.00,245771.00,  ,, MA 
+1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,1/9/23,1,9,2023,11:54:00 a. m.,AM,18057.00,18214.00,  ,, MA 
+1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,1/9/23,1,9,2023,11:52:00 a. m.,AM,31386.00,32124.00,0.90,, MA 
 1,SRM19,Entrada Chorreras I a Tanque San Isidro,Operacion Correcta,31/8/23,31,8,2023,11:24:00 a. m.,AM,498241.00,545683.00,15.57,15.49, MA 
-1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,31/8/23,31,8,2023,11:25:00 a. m.,AM,1722815.00,1743000.00,1.19, -   , MA 
+1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,31/8/23,31,8,2023,11:25:00 a. m.,AM,1722815.00,1743000.00,1.19,, MA 
 1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,31/8/23,31,8,2023,11:33:00 a. m.,AM,1965078.00,2030441.00,32.72,30.63, MA 
 1,SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,Operacion Correcta,31/8/23,31,8,2023,11:29:00 a. m.,AM,1414777.00,1441853.00,13.58,11.70, MA 
 1,SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,Operacion Correcta,31/8/23,31,8,2023,11:27:00 a. m.,AM,4393886.00,4455340.00,30.56,27.93, MA 
@@ -1443,7 +1443,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM11,Tanque ChamacoEntrada del Tirol,Operacion Correcta,31/8/23,31,8,2023,7:25:00 a. m.,AM,3515494.00,3611063.00,33.20,21.45, MA 
 1,SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Macromedidor en mal estado,31/8/23,31,8,2023,7:59:00 a. m.,AM,,1854122.00,,61.17, MA 
 1,SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Operacion Correcta,31/8/23,31,8,2023,7:57:00 a. m.,AM,12739196.00,12931832.00,86.40,64.28, MA 
-1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,31/8/23,31,8,2023,,AM,,579299.89,  , -   , MA 
+1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,31/8/23,31,8,2023,,AM,,579299.89,  ,, MA 
 1,SRM42,"Conducción Noventa a Palmar (4"")",Operacion Correcta,31/8/23,31,8,2023,8:13:00 a. m.,AM,1251177.60,12875014.00,16.09,15.19, MA 
 1,SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,,0,8,2023,,AM,,,,, MA 
 1,,Iris Hernández,Operacion Correcta,31/8/23,31,8,2023,8:44:00 a. m.,AM,721662.00,758175.00,11.42,11.43, M1  
@@ -1504,24 +1504,24 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,,0,9,2023,,AM,9586.49,,33.09,,
 1,SIM12,"Mata Maiz Llegando al Tanque 4""",Operacion Correcta,2/10/23,2,10,2023,12:30:00 p. m.,PM,932247.00,958029.00,4.64,12.04, MA 
 1,SIM13,"Mata Caña llegando al Tanque 4""",Operacion Correcta,2/10/23,2,10,2023,12:30:00 p. m.,PM,1140934.00,1161104.00,6.11,8.26, MA 
-1,SIM14,"Limpieza Tanque Victoria 8""",Operacion Correcta,2/10/23,2,10,2023,1:08:00 p. m.,PM,19829.00,19829.00, -   , -   , MA 
+1,SIM14,"Limpieza Tanque Victoria 8""",Operacion Correcta,2/10/23,2,10,2023,1:08:00 p. m.,PM,19829.00,19829.00,,, MA 
 1,SIM01,"Tanque Succion  tanque Victoria 6""",Operacion Correcta,2/10/23,2,10,2023,12:35:00 p. m.,PM,1887057.00,1930916.00,29.15,29.05, MA 
-1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,2/10/23,2,10,2023,12:36:00 p. m.,PM,1005587.80,1016792.90,16.20, -   , MA 
-1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,2/10/23,2,10,2023,12:37:00 p. m.,PM,21193.22,21375.51, -   , -   , MA 
+1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,2/10/23,2,10,2023,12:36:00 p. m.,PM,1005587.80,1016792.90,16.20,, MA 
+1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,2/10/23,2,10,2023,12:37:00 p. m.,PM,21193.22,21375.51,,, MA 
 1,PEND,"Victoria Saliendo 6""",Operacion Correcta,2/10/23,2,10,2023,12:40:00 p. m.,PM,2484653.00,2578466.00,37.77,36.74, MA 
-1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,2/10/23,2,10,2023,12:05:00 p. m.,PM,356022.00,364135.00,15.37, -   , MA 
-1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,2/10/23,2,10,2023,12:10:00 p. m.,PM,628929.00,638878.00, -   ,5.92, MA 
-1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,2/10/23,2,10,2023,12:10:00 p. m.,PM,607688.00,616321.00, -   ,5.62, MA 
-1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,2/10/23,2,10,2023,11:35:00 a. m.,AM,244080.00,244080.00, -   , -   , MA 
-1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,2/10/23,2,10,2023,11:30:00 a. m.,AM,177209.00,186870.00, -   ,2.39, MA 
+1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,2/10/23,2,10,2023,12:05:00 p. m.,PM,356022.00,364135.00,15.37,, MA 
+1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,2/10/23,2,10,2023,12:10:00 p. m.,PM,628929.00,638878.00,,5.92, MA 
+1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,2/10/23,2,10,2023,12:10:00 p. m.,PM,607688.00,616321.00,,5.62, MA 
+1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,2/10/23,2,10,2023,11:35:00 a. m.,AM,244080.00,244080.00,,, MA 
+1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,2/10/23,2,10,2023,11:30:00 a. m.,AM,177209.00,186870.00,,2.39, MA 
 1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,,0,9,2023,,AM,,,,, MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,2/10/23,2,10,2023,11:05:00 a. m.,AM,1837082.00,1871805.40,9.40,14.50, MA 
 1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,2/10/23,2,10,2023,11:00:00 a. m.,AM,1617164.00,1645754.70,21.90,21.90, MA 
-1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,2/10/23,2,10,2023,10:55:00 a. m.,AM,245771.00,254535.00, -   , -   , MA 
-1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,2/10/23,2,10,2023,11:00:00 a. m.,AM,18214.00,18658.00, -   , -   , MA 
-1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,2/10/23,2,10,2023,10:55:00 a. m.,AM,32124.00,32783.00, -   ,1.07, MA 
+1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,2/10/23,2,10,2023,10:55:00 a. m.,AM,245771.00,254535.00,,, MA 
+1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,2/10/23,2,10,2023,11:00:00 a. m.,AM,18214.00,18658.00,,, MA 
+1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,2/10/23,2,10,2023,10:55:00 a. m.,AM,32124.00,32783.00,,1.07, MA 
 1,SRM19,Entrada Chorreras I a Tanque San Isidro,Operacion Correcta,2/10/23,2,10,2023,10:40:00 a. m.,AM,545683.00,585101.00,15.49,15.67, MA 
-1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,2/10/23,2,10,2023,10:40:00 a. m.,AM,1743000.00,1773591.00, -   ,5.99, MA 
+1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,2/10/23,2,10,2023,10:40:00 a. m.,AM,1743000.00,1773591.00,,5.99, MA 
 1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,2/10/23,2,10,2023,10:30:00 a. m.,AM,2030441.00,2095938.00,30.63,33.45, MA 
 1,SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,Operacion Correcta,2/10/23,2,10,2023,10:38:00 a. m.,AM,1441853.00,1468096.00,11.70,14.35, MA 
 1,SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,Operacion Correcta,2/10/23,2,10,2023,10:36:00 a. m.,AM,4455340.00,4516085.00,27.93,32.76, MA 
@@ -1535,7 +1535,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM11,Tanque ChamacoEntrada del Tirol,Operacion Correcta,2/10/23,2,10,2023,7:22:00 a. m.,AM,3611063.00,3712400.00,21.45,20.53, MA 
 1,SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Operacion Correcta,2/10/23,2,10,2023,11:35:00 a. m.,AM,1854122.00,1989520.00,61.17,47.90, MA 
 1,SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Operacion Correcta,2/10/23,2,10,2023,11:38:00 a. m.,AM,12931832.00,13103560.00,64.28,82.20, MA 
-1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,2/10/23,2,10,2023,11:48:00 a. m.,AM,579299.89,579299.80, -   , -   , MA 
+1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,2/10/23,2,10,2023,11:48:00 a. m.,AM,579299.89,579299.80,,, MA 
 1,SRM42,"Conducción Noventa a Palmar (4"")",Operacion Correcta,2/10/23,2,10,2023,11:44:00 a. m.,AM,12875014.00,13239714.00,15.19,16.17, MA 
 1,SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,,0,9,2023,,AM,,,,, MA 
 1,,Iris Hernández,Operacion Correcta,2/10/23,2,10,2023,8:09:00 a. m.,AM,758175.00,792979.00,11.43,12.54, M1  
@@ -1595,38 +1595,38 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,,Rebombeo Vilaseca  Rebombeo Chizos,Punto Sin Macromedidor,30/10/23,30,10,2023,,AM,,,,,
 1,SIM12,"Mata Maiz Llegando al Tanque 4""",Operacion Correcta,30/10/23,30,10,2023,2:26:00 p. m.,PM,958029.00,986092.00,12.04,10.64, MA 
 1,SIM13,"Mata Caña llegando al Tanque 4""",Operacion Correcta,30/10/23,30,10,2023,2:27:00 p. m.,PM,1161104.00,1181137.00,8.26,8.55, MA 
-1,SIM14,"Limpieza Tanque Victoria 8""",Operacion Correcta,30/10/24,30,10,2024,2:28:00 p. m.,PM,19829.00, FOP , -   ,  , MA 
+1,SIM14,"Limpieza Tanque Victoria 8""",Operacion Correcta,30/10/24,30,10,2024,2:28:00 p. m.,PM,19829.00,,,  , MA 
 1,SIM01,"Tanque Succion  tanque Victoria 6""",Operacion Correcta,30/10/23,30,10,2023,2:29:00 p. m.,PM,1930916.00,1975603.00,29.05,  , MA 
-1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,30/10/23,30,10,2023,2:30:00 p. m.,PM,1016792.90,10216120.00, -   ,  , MA 
-1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,30/10/23,30,10,2023,2:30:00 p. m.,PM,21375.51,21542.50, -   ,  , MA 
-1,PEND,"Victoria Saliendo 6""",Operacion Correcta,30/10/23,30,10,2023,2:31:00 p. m.,PM,2578466.00, FOP ,36.74,  , MA 
-1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,30/10/23,30,10,2023,12:47:00 p. m.,PM,364135.00,367096.00, -   ,  , MA 
+1,SIM09,"Rebombeo Chizos t. victoria 6""",Operacion Correcta,30/10/23,30,10,2023,2:30:00 p. m.,PM,1016792.90,10216120.00,,  , MA 
+1,SIM10,"Rebombeo Victoria  hacia el norte 4""",Operacion Correcta,30/10/23,30,10,2023,2:30:00 p. m.,PM,21375.51,21542.50,,  , MA 
+1,PEND,"Victoria Saliendo 6""",Operacion Correcta,30/10/23,30,10,2023,2:31:00 p. m.,PM,2578466.00,,36.74,  , MA 
+1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,30/10/23,30,10,2023,12:47:00 p. m.,PM,364135.00,367096.00,,  , MA 
 1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,30/10/23,30,10,2023,12:49:00 p. m.,PM,638878.00,654698.00,5.92,7.17, MA 
 1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,30/10/23,30,10,2023,3:50:00 p. m.,PM,616321.00,631712.00,5.62,6.96, MA 
-1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,30/10/23,30,10,2023,12:12:00 p. m.,PM,244080.00, XXXX , -   ,1.41, MA 
+1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,30/10/23,30,10,2023,12:12:00 p. m.,PM,244080.00,,,1.41, MA 
 1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,30/10/23,30,10,2023,12:15:00 p. m.,PM,186870.00,196424.00,2.39,6.29, MA 
 1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,30/10/23,30,10,2023,11:42:00 a. m.,AM,,226895.00,,  , MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,30/10/23,30,10,2023,11:47:00 a. m.,AM,1871805.40,1906704.70,14.50,14.40, MA 
 1,SRM50,Breña Mora Salida Planta Tratamiento,Operacion Correcta,30/10/23,30,10,2023,11:46:00 a. m.,AM,1645754.70,1676450.60,21.90,21.60, MA 
-1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,30/10/23,30,10,2023,11:44:00 a. m.,AM,254535.00,266895.00, -   ,  , MA 
-1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,30/10/23,30,10,2023,11:45:00 a. m.,AM,18658.00,18824.00, -   ,  , MA 
+1,PEND,Salida Tanque Breña Mora  Tanque San Isidro,Operacion Correcta,30/10/23,30,10,2023,11:44:00 a. m.,AM,254535.00,266895.00,,  , MA 
+1,SRM46,"Rebombeo T Sn Isidro  T Breña Mora (6"")",Operacion Correcta,30/10/23,30,10,2023,11:45:00 a. m.,AM,18658.00,18824.00,,  , MA 
 1,SRM47,"Rebombeo T Breña Mora hacia el Norte 4""",Operacion Correcta,30/10/23,30,10,2023,11:44:00 a. m.,AM,32783.00,33378.00,1.07,0.55, MA 
 1,SRM19,Entrada Chorreras I a Tanque San Isidro,Operacion Correcta,30/10/23,30,10,2023,11:21:00 a. m.,AM,585101.00,619048.00,15.67,13.94, MA 
 1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,30/10/23,30,10,2023,11:19:00 a. m.,AM,1773591.00,1809636.00,5.99,5.66, MA 
 1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,30/10/23,30,10,2023,11:09:00 a. m.,AM,2095938.00,2155804.00,33.45,38.51, MA 
-1,SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,Operacion Correcta,30/10/23,30,10,2023,12:50:00 p. m.,PM,1468096.00, XXXX ,14.35,6.96, MA 
+1,SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,Operacion Correcta,30/10/23,30,10,2023,12:50:00 p. m.,PM,1468096.00,,14.35,6.96, MA 
 1,SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,Operacion Correcta,30/10/23,30,10,2023,12:12:00 p. m.,PM,4516085.00,4568981.00,32.76,, MA 
-1,SIM17,Cementerio  Bunt Planet,Operacion Correcta,30/10/23,30,10,2023,12:15:00 p. m.,PM,1091473.40, XXXX ,7.99,, MA 
-1,SIM18,Mas x Menos Bunt Planet,Operacion Correcta,30/10/23,30,10,2023,11:42:00 a. m.,AM,1725500.60, XXXX ,16.25,, MA 
+1,SIM17,Cementerio  Bunt Planet,Operacion Correcta,30/10/23,30,10,2023,12:15:00 p. m.,PM,1091473.40,,7.99,, MA 
+1,SIM18,Mas x Menos Bunt Planet,Operacion Correcta,30/10/23,30,10,2023,11:42:00 a. m.,AM,1725500.60,,16.25,, MA 
 1,SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,30/10/23,30,10,2023,11:47:00 a. m.,AM,,1906704.70,,14.40, MA 
-1,SIM53,Entrada al Tanque San Francisco (T4),Operacion Correcta,30/10/23,30,10,2023,11:46:00 a. m.,AM,742660.00, XXXX ,8.95,21.60, MA 
-1,SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",Operacion Correcta,30/10/23,30,10,2023,11:44:00 a. m.,AM,3089469.00, XXXX ,24.77,  , MA 
-1,SRM48,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,30/10/23,30,10,2023,11:45:00 a. m.,AM,1993231.00, XXXX ,16.19,  , MA 
-1,SRM49,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,30/10/23,30,10,2023,11:44:00 a. m.,AM,613331.00, XXXX ,0.47,0.55, MA 
-1,SRM11,Tanque ChamacoEntrada del Tirol,Operacion Correcta,30/10/23,30,10,2023,11:21:00 a. m.,AM,3712400.00, XXXX ,20.53,, MA 
-1,SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Operacion Correcta,30/10/23,30,10,2023,11:19:00 a. m.,AM,1989520.00, XXXX ,47.90,, MA 
-1,SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Operacion Correcta,30/10/23,30,10,2023,11:09:00 a. m.,AM,13103560.00, XXXX ,82.20,, MA 
-1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,31/10/23,31,10,2023,1:35:00 p. m.,PM,579299.80,579299.89, -   ,  , MA 
+1,SIM53,Entrada al Tanque San Francisco (T4),Operacion Correcta,30/10/23,30,10,2023,11:46:00 a. m.,AM,742660.00,,8.95,21.60, MA 
+1,SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",Operacion Correcta,30/10/23,30,10,2023,11:44:00 a. m.,AM,3089469.00,,24.77,  , MA 
+1,SRM48,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,30/10/23,30,10,2023,11:45:00 a. m.,AM,1993231.00,,16.19,  , MA 
+1,SRM49,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,30/10/23,30,10,2023,11:44:00 a. m.,AM,613331.00,,0.47,0.55, MA 
+1,SRM11,Tanque ChamacoEntrada del Tirol,Operacion Correcta,30/10/23,30,10,2023,11:21:00 a. m.,AM,3712400.00,,20.53,, MA 
+1,SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Operacion Correcta,30/10/23,30,10,2023,11:19:00 a. m.,AM,1989520.00,,47.90,, MA 
+1,SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Operacion Correcta,30/10/23,30,10,2023,11:09:00 a. m.,AM,13103560.00,,82.20,, MA 
+1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,31/10/23,31,10,2023,1:35:00 p. m.,PM,579299.80,579299.89,,  , MA 
 1,SRM42,"Conducción Noventa a Palmar (4"")",Operacion Correcta,31/10/23,31,10,2023,1:30:00 p. m.,PM,13239714.00,13564569.00,16.17,13.28, MA 
 1,SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,31/10/23,31,10,2023,1:31:00 p. m.,PM,,,,  , MA 
 1,,Iris Hernández,Operacion Correcta,30/10/23,30,10,2023,8:34:00 a. m.,AM,792979.00,843207.00,12.54,18.66, M1  
@@ -1664,7 +1664,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,HM12,"Pozo Granada ( 10"" )",Operacion Correcta,30/11/23,30,11,2023,4:13:00 p. m.,PM,5057135.00,5140276.00,32.80,32.20, MA 
 1,HM21,"Pozo Aurora II  ( 4"" )",Pozo Apagado,30/11/23,30,11,2023,4:29:00 p. m.,PM,156777.00,156777.00,  ,  , MA 
 1,HM20,"Pozo Aurora III  ( 4"" )",Pozo Apagado,30/11/23,30,11,2023,4:05:00 p. m.,PM,135781.00,135783.00,  ,  , MA 
-1,HM11,"Pozo Malinches   I ( 6"" )",Operacion Correcta,30/11/23,30,11,2023,,AM,991489.00, FOP ,47.99,  , MA 
+1,HM11,"Pozo Malinches   I ( 6"" )",Operacion Correcta,30/11/23,30,11,2023,,AM,991489.00,,47.99,  , MA 
 1,HM22,Medidor para venta de agua Malinches,Operacion Correcta,30/11/23,30,11,2023,2:53:00 p. m.,PM,1060.39,1060.39,  ,  , MA 
 1,HM14,"Pozo Malinches  II  ( 6"" )",Operacion Correcta,30/11/23,30,11,2023,3:13:00 p. m.,PM,3626719.34,3846832.37,84.50,84.22, M2 
 1,HM06,"Pozo San Vicente        ( 10"" )",Operacion Correcta,30/11/23,30,11,2023,2:25:00 p. m.,PM,2736705.00,2965670.00,102.43,103.06, MA 
@@ -1694,7 +1694,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,30/11/23,30,11,2023,9:30:00 a. m.,AM,367096.00,369845.00,  ,  , MA 
 1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,30/11/23,30,11,2023,9:33:00 a. m.,AM,654698.00,674333.00,7.17,8.49, MA 
 1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,30/11/23,30,11,2023,9:36:00 a. m.,AM,631712.00,650029.00,6.96,8.44, MA 
-1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,30/11/23,30,11,2023,9:58:00 a. m.,AM, XXXX , XXXXX ,1.41,1.95, MA 
+1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,30/11/23,30,11,2023,9:58:00 a. m.,AM,,,1.41,1.95, MA 
 1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,30/11/23,30,11,2023,9:55:00 a. m.,AM,196424.00,211057.00,6.29,6.30, MA 
 1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,30/11/23,30,11,2023,10:10:00 a. m.,AM,226895.00,278704.00,  ,16.00, MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,30/11/23,30,11,2023,10:18:00 a. m.,AM,1906704.70,1944655.00,14.40,14.50, MA 
@@ -1705,18 +1705,18 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM19,Entrada Chorreras I a Tanque San Isidro,Operacion Correcta,30/11/23,30,11,2023,,AM,619048.00,655633.00,13.94,15.18, MA 
 1,SRM18,Entrada Chorreras II a Tanque San Isidro,Operacion Correcta,30/11/23,30,11,2023,,AM,1809636.00,1850613.00,5.66,  , MA 
 1,SRM52,"Salida Tanque San Isidro Oeste 6""",Operacion Correcta,30/11/23,30,11,2023,,AM,2155804.00,2216909.00,38.51,31.58, MA 
-1,SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,Operacion Correcta,30/11/23,30,11,2023,10:35:00 a. m.,AM, XXXX ,1508614.00,6.96,13.32, MA 
+1,SRM27,Salida Tanq San Isidro a San Francisco Bunt Planet,Operacion Correcta,30/11/23,30,11,2023,10:35:00 a. m.,AM,,1508614.00,6.96,13.32, MA 
 1,SRM29,Salida Pricipal Tanque San Isidro Bunt Planet,Operacion Correcta,30/11/23,30,11,2023,10:37:00 a. m.,AM,4568981.00,4622584.00,,30.45, MA 
-1,SIM17,Cementerio  Bunt Planet,Operacion Correcta,30/11/23,30,11,2023,8:12:00 a. m.,AM, XXXX ,1131151.70,6.29,12.80, MA 
-1,SIM18,Mas x Menos Bunt Planet,Operacion Correcta,30/11/23,30,11,2023,8:14:00 a. m.,AM, XXXX ,1795017.20,  ,15.85, MA 
+1,SIM17,Cementerio  Bunt Planet,Operacion Correcta,30/11/23,30,11,2023,8:12:00 a. m.,AM,,1131151.70,6.29,12.80, MA 
+1,SIM18,Mas x Menos Bunt Planet,Operacion Correcta,30/11/23,30,11,2023,8:14:00 a. m.,AM,,1795017.20,  ,15.85, MA 
 1,SIM19,Cruz Roja Bunt Planet,Punto Sin Macromedidor,30/11/23,30,11,2023,,AM,1906704.70,,14.40,, MA 
-1,SIM53,Entrada al Tanque San Francisco (T4),Operacion Correcta,30/11/23,30,11,2023,7:55:00 a. m.,AM, XXXX ,779903.00,21.60,  , MA 
-1,SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",Operacion Correcta,30/11/23,30,11,2023,11:04:00 a. m.,AM, XXXX ,3225771.00,  ,27.40, MA 
-1,SRM48,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,30/11/23,30,11,2023,10:55:00 a. m.,AM, XXXX ,2075506.00,  ,11.06, MA 
-1,SRM49,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,30/11/23,30,11,2023,10:54:00 a. m.,AM, XXXX ,681065.00,0.55,14.34, MA 
-1,SRM11,Tanque ChamacoEntrada del Tirol,Operacion Correcta,30/11/23,30,11,2023,7:32:00 a. m.,AM, XXXX ,3945480.00,,37.22, MA 
-1,SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Operacion Correcta,30/11/23,30,11,2023,1:36:00 p. m.,PM, XXXX ,2342319.00,,65.52, MA 
-1,SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Operacion Correcta,30/11/23,30,11,2023,1:00:00 p. m.,PM, XXXX ,13339262.00,,91.59, MA 
+1,SIM53,Entrada al Tanque San Francisco (T4),Operacion Correcta,30/11/23,30,11,2023,7:55:00 a. m.,AM,,779903.00,21.60,  , MA 
+1,SRM01,"Presa Concepción Cieneguita  (Cienega Norte) (4"")",Operacion Correcta,30/11/23,30,11,2023,11:04:00 a. m.,AM,,3225771.00,  ,27.40, MA 
+1,SRM48,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,30/11/23,30,11,2023,10:55:00 a. m.,AM,,2075506.00,  ,11.06, MA 
+1,SRM49,Caja a la Entrada de T Cienega Sur Nuevo,Operacion Correcta,30/11/23,30,11,2023,10:54:00 a. m.,AM,,681065.00,0.55,14.34, MA 
+1,SRM11,Tanque ChamacoEntrada del Tirol,Operacion Correcta,30/11/23,30,11,2023,7:32:00 a. m.,AM,,3945480.00,,37.22, MA 
+1,SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Operacion Correcta,30/11/23,30,11,2023,1:36:00 p. m.,PM,,2342319.00,,65.52, MA 
+1,SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Operacion Correcta,30/11/23,30,11,2023,1:00:00 p. m.,PM,,13339262.00,,91.59, MA 
 1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,30/11/23,30,11,2023,,AM,579299.89,579299.89,  ,  , MA 
 1,SRM42,"Conducción Noventa a Palmar (4"")",Operacion Correcta,30/11/23,30,11,2023,1:41:00 p. m.,PM,13564569.00,13904377.00,13.28,14.66, MA 
 1,SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,30/11/23,30,11,2023,,AM,,,  ,, MA 
@@ -1785,7 +1785,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SIM16,"Rebombeo Sn Josecito 1  T Sta Cecilia (4"")",Operacion Correcta,2/1/24,2,1,2024,9:03:00 a. m.,AM,369845.00,374808.00,  ,18.99, MA 
 1,SIM05,"Desarenador Sta Cecilia  T Sta Cecilia Oeste (4"")",Operacion Correcta,2/1/24,2,1,2024,9:06:00 a. m.,AM,674333.00,685496.00,8.49,2.40, MA 
 1,SIM08,"Desarenador Sta Cecilia  T Sta Cecilia Este (4"")",Operacion Correcta,2/1/24,2,1,2024,9:10:00 a. m.,AM,650029.00,660401.00,8.44,2.34, MA 
-1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,2/1/24,2,1,2024,9:18:00 a. m.,AM, XXXXX ,,1.95,0.86, MA 
+1,SIM06,"Fuente Yurro Hondo T Chilillal (4"")",Operacion Correcta,2/1/24,2,1,2024,9:18:00 a. m.,AM,,,1.95,0.86, MA 
 1,SIM07,"Fuente Tranqueras T Chilillal (4"")",Operacion Correcta,2/1/24,2,1,2024,9:19:00 a. m.,AM,211057.00,223576.00,6.30,12.57, MA 
 1,SRM04,Entrada Predio  Breña Mora (Estación Esquina),Linea fuera de Operación,2/1/24,2,1,2024,10:12:00 a. m.,AM,278704.00,290244.00,16.00,8.43, MA 
 1,SRM51,Breña Mora Entrada Planta,Operacion Correcta,2/1/24,2,1,2024,10:20:00 a. m.,AM,1944655.00,1985051.90,14.50,12.80, MA 
@@ -1808,7 +1808,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM11,Tanque ChamacoEntrada del Tirol,Operacion Correcta,2/1/24,2,1,2024,7:50:00 a. m.,AM,3945480.00,4057565.00,37.22,, MA 
 1,SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Operacion Correcta,2/1/24,2,1,2024,8:19:00 a. m.,AM,2342319.00,2520312.00,65.52,, MA 
 1,SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Operacion Correcta,2/1/24,2,1,2024,8:17:00 a. m.,AM,13339262.00,13547901.00,91.59,, MA 
-1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,2/1/24,2,1,2024,8:22:00 a. m.,AM,579299.89, FOP ,  ,, MA 
+1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,2/1/24,2,1,2024,8:22:00 a. m.,AM,579299.89,,  ,, MA 
 1,SRM42,"Conducción Noventa a Palmar (4"")",Operacion Correcta,2/1/24,2,1,2024,8:25:00 a. m.,AM,1390437.70,1427321.50,14.66,14.17, MA 
 1,SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,2/1/24,2,1,2024,8:27:00 a. m.,AM,,,  ,, MA 
 1,,Iris Hernández,Operacion Correcta,2/1/24,2,1,2024,8:56:00 a. m.,AM,900357.00,953304.00,21.08,14.61, M1  
@@ -1837,7 +1837,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",Operacion Correcta,2/1/24,2,1,2024,9:42:00 a. m.,AM,2151113.00,2218349.00,23.65,24.27, MA 
 1,SR54,Mata Plátano,Operacion Correcta,2/1/24,2,1,2024,8:03:00 a. m.,AM,339851.62,394081.05,9.07,1.49, MA 
 1,BM25,"Sacramento 3""",Operacion Correcta,2/1/24,2,1,2024,11:16:00 a. m.,AM,288938.00,302112.00,5.82,4.70,
-1,SPM01,"Pozo Miraflores        ( 8"" )",Macromedidor en mal estado,1/2/24,1,2,2024,2:27:00 p. m.,PM,3797860.00, -   ,  ,52.00, MA 
+1,SPM01,"Pozo Miraflores        ( 8"" )",Macromedidor en mal estado,1/2/24,1,2,2024,2:27:00 p. m.,PM,3797860.00,,  ,52.00, MA 
 1,HM26,"Pozo La Esperanza I A ( 6"" )",Operacion Correcta,1/2/24,1,2,2024,2:35:00 p. m.,PM,7217084.00,7348610.00,52.70,  , MA 
 1,HM15,"Pozo La Esperanza II  ( 6"" )",Operacion Correcta,1/2/24,1,2,2024,2:45:00 p. m.,PM,18434.00,18434.00,  ,  , MA 
 1,HM07,Pozo Real Santamaría,Operacion Correcta,1/2/24,1,2,2024,2:02:00 p. m.,PM,19308073.00,19470167.00,70.15,66.24, MA 
@@ -1899,11 +1899,11 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM11,Tanque ChamacoEntrada del Tirol,Operacion Correcta,1/2/24,1,2,2024,8:18:00 a. m.,AM,4057565.00,4123484.00,,10.61, MA 
 1,SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Operacion Correcta,1/2/24,1,2,2024,3:39:00 p. m.,PM,2520312.00,2644413.00,,37.58, MA 
 1,SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Operacion Correcta,1/2/24,1,2,2024,3:50:00 p. m.,PM,13547901.00,13728355.00,,57.63, MA 
-1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,1/2/24,1,2,2024,3:45:00 p. m.,PM,  , FOP ,,  , MA 
+1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,1/2/24,1,2,2024,3:45:00 p. m.,PM,  ,,,  , MA 
 1,SRM42,"Conducción Noventa a Palmar (4"")",Operacion Correcta,1/2/24,1,2,2024,3:53:00 p. m.,PM,1427321.50,1467371.30,14.17,15.50, MA 
 1,SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,1/2/24,1,2,2024,,AM,,,,, MA 
 1,,Iris Hernández,Operacion Correcta,1/2/24,1,2,2024,8:18:00 a. m.,AM,953304.00,979800.00,14.61,6.75, M1  
-1,PEND,Derivación ASADA San Pedro de Barva,Operacion Correcta,1/2/24,1,2,2024,8:00:00 a. m.,AM,, El Propietario no permite el acceso ,,, M2  
+1,PEND,Derivación ASADA San Pedro de Barva,Operacion Correcta,1/2/24,1,2,2024,8:00:00 a. m.,AM,,,,, M2  
 1,BM09,Botho Steinvorth,Operacion Correcta,1/2/24,1,2,2024,8:22:00 a. m.,AM,3925938.30,3956537.70,15.27,8.69, MA 
 1,BM08,Llegada de las 29 al Tanque Steinvorth,Operacion Correcta,1/2/24,1,2,2024,8:22:00 a. m.,AM,2521267.00,2548076.00,3.31,10.55, MA 
 1,BM21,"Conducción Flores al Tirol (8"") Saliendo",Operacion Correcta,1/2/24,1,2,2024,8:16:00 a. m.,AM,7529767.50,7657785.00,75.14,60.95, MA 
@@ -1921,14 +1921,14 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,BM10,"El Higueron 8""  (6"")",Operacion Correcta,1/2/24,1,2,2024,8:53:00 a. m.,AM,8367788.00,8462268.00,38.93,31.84, MA 
 1,BM11,"LA Gemela #1 (6"")",Operacion Correcta,1/2/24,1,2,2024,8:56:00 a. m.,AM,4204024.00,4211559.00,8.50,7.52, MA 
 1,BM12,"LA Gemela #2  (6"")",Operacion Correcta,1/2/24,1,2,2024,8:59:00 a. m.,AM,7882977.00,7974921.00,41.78,30.13, MA 
-1,BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,1/2/24,1,2,2024,9:15:00 a. m.,AM,,,74.29, Muy bajo nivel , M2 
+1,BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,1/2/24,1,2,2024,9:15:00 a. m.,AM,,,74.29,, M2 
 1,SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",Operacion Correcta,1/2/24,1,2,2024,9:15:00 a. m.,AM,915891.00,988383.00,27.63,28.76, MA 
 1,SRM21,"Conducción Flores al Tirol (6"") Llegando",Macromedidor en mal estado,1/2/24,1,2,2024,,AM,6881869.00,,60.16,, M1 
 1,SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",Operacion Correcta,1/2/24,1,2,2024,9:29:00 a. m.,AM,2502316.00,2570874.00,25.16,28.09, MA 
 1,SRM23,"Purificador Chalet Salida  Sn Rafael (6"")",Operacion Correcta,1/2/24,1,2,2024,9:32:00 a. m.,AM,2218349.00,2280758.00,24.27,28.07, MA 
 1,SR54,Mata Plátano,Operacion Correcta,1/2/24,1,2,2024,8:28:00 a. m.,AM,394081.05,405700.00,1.49,1.61, MA 
 1,BM25,"Sacramento 3""",Operacion Correcta,1/2/24,1,2,2024,11:14:00 a. m.,AM,302112.00,311618.00,4.70,4.80,
-1,SPM01,"Pozo Miraflores        ( 8"" )",Macromedidor en mal estado,1/2/24,1,2,2024,2:27:00 p. m.,PM,3797860.00, -   ,  ,52.00, MA 
+1,SPM01,"Pozo Miraflores        ( 8"" )",Macromedidor en mal estado,1/2/24,1,2,2024,2:27:00 p. m.,PM,3797860.00,,  ,52.00, MA 
 1,HM26,"Pozo La Esperanza I A ( 6"" )",Operacion Correcta,1/2/24,1,2,2024,2:35:00 p. m.,PM,7217084.00,7348610.00,52.70,  , MA 
 1,HM15,"Pozo La Esperanza II  ( 6"" )",Operacion Correcta,1/2/24,1,2,2024,2:45:00 p. m.,PM,18434.00,18434.00,  ,  , MA 
 1,HM07,Pozo Real Santamaría,Operacion Correcta,1/2/24,1,2,2024,2:02:00 p. m.,PM,19308073.00,19470167.00,70.15,66.24, MA 
@@ -1990,11 +1990,11 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,SRM11,Tanque ChamacoEntrada del Tirol,Operacion Correcta,1/2/24,1,2,2024,8:18:00 a. m.,AM,4057565.00,4123484.00,,10.61, MA 
 1,SRM07,"Cond Tanq. Chaverri T 90 Linea I  (8"")",Operacion Correcta,1/2/24,1,2,2024,3:39:00 p. m.,PM,2520312.00,2644413.00,,37.58, MA 
 1,SRM08,"Cond Tanq. Chaverri T90 Linea II  (8"")",Operacion Correcta,1/2/24,1,2,2024,3:50:00 p. m.,PM,13547901.00,13728355.00,,57.63, MA 
-1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,1/2/24,1,2,2024,3:45:00 p. m.,PM,  , FOP ,,  , MA 
+1,SRM09,"Chaverri cinlindrico 90 Final ( 8"" )",Linea fuera de Operación,1/2/24,1,2,2024,3:45:00 p. m.,PM,  ,,,  , MA 
 1,SRM42,"Conducción Noventa a Palmar (4"")",Operacion Correcta,1/2/24,1,2,2024,3:53:00 p. m.,PM,1427321.50,1467371.30,14.17,15.50, MA 
 1,SRM05,"Vertedero Tanque Noventa (18"") (Intrusivo)",Punto Sin Macromedidor,1/2/24,1,2,2024,,AM,,,,, MA 
 1,,Iris Hernández,Operacion Correcta,1/2/24,1,2,2024,8:18:00 a. m.,AM,953304.00,979800.00,14.61,6.75, M1  
-1,PEND,Derivación ASADA San Pedro de Barva,Operacion Correcta,1/2/24,1,2,2024,8:00:00 a. m.,AM,, El Propietario no permite el acceso ,,, M2  
+1,PEND,Derivación ASADA San Pedro de Barva,Operacion Correcta,1/2/24,1,2,2024,8:00:00 a. m.,AM,,,,, M2  
 1,BM09,Botho Steinvorth,Operacion Correcta,1/2/24,1,2,2024,8:22:00 a. m.,AM,3925938.30,3956537.70,15.27,8.69, MA 
 1,BM08,Llegada de las 29 al Tanque Steinvorth,Operacion Correcta,1/2/24,1,2,2024,8:22:00 a. m.,AM,2521267.00,2548076.00,3.31,10.55, MA 
 1,BM21,"Conducción Flores al Tirol (8"") Saliendo",Operacion Correcta,1/2/24,1,2,2024,8:16:00 a. m.,AM,7529767.50,7657785.00,75.14,60.95, MA 
@@ -2012,7 +2012,7 @@ BIAS,ID,PUNTO DE MEDICION,ESTADO,FECHA,DIAF,MESF,ANOF,HORA,HORARIO,CAUDAL ACUMUL
 1,BM10,"El Higueron 8""  (6"")",Operacion Correcta,1/2/24,1,2,2024,8:53:00 a. m.,AM,8367788.00,8462268.00,38.93,31.84, MA 
 1,BM11,"LA Gemela #1 (6"")",Operacion Correcta,1/2/24,1,2,2024,8:56:00 a. m.,AM,4204024.00,4211559.00,8.50,7.52, MA 
 1,BM12,"LA Gemela #2  (6"")",Operacion Correcta,1/2/24,1,2,2024,8:59:00 a. m.,AM,7882977.00,7974921.00,41.78,30.13, MA 
-1,BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,1/2/24,1,2,2024,9:15:00 a. m.,AM,,,74.29, Muy bajo nivel , M2 
+1,BM06,Chorreras Naciente 350 mm  (Intrusivo),Punto Sin Macromedidor,1/2/24,1,2,2024,9:15:00 a. m.,AM,,,74.29,, M2 
 1,SRM20,"Marin Cañas  Brasilia (4"") (en Tanque Brasilia)",Operacion Correcta,1/2/24,1,2,2024,9:15:00 a. m.,AM,915891.00,988383.00,27.63,28.76, MA 
 1,SRM21,"Conducción Flores al Tirol (6"") Llegando",Macromedidor en mal estado,1/2/24,1,2,2024,,AM,6881869.00,,60.16,, M1 
 1,SRM24,"Purificador Chalet Ingreso  Sn Rafael (6"")",Operacion Correcta,1/2/24,1,2,2024,9:29:00 a. m.,AM,2502316.00,2570874.00,25.16,28.09, MA 
